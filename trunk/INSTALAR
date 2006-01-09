@@ -1,0 +1,8 @@
+Todabia no hay un instalador. La forma mas simple de tenerlo usable es:
+
+Desempaquetalo en un directorio   ---> cd "directorio" && tar jxvf debgui-0.0.1.tar.bz2
+Crea un enlace en /usr/bin        ---> cd /usr/bin && sudo ln -s "directorio"/debgui.py debgui
+
+Donde "directorio" es el directorio que tu quieras.
+
+Puedes usar el script "install.sh" para instalar debgui en /usr/share/debgui

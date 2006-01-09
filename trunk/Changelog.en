@@ -1,0 +1,21 @@
+debgui (0.0.2) unstable; urgency=low
+
+  * Package type selection now work
+  * Debianization now work better
+  * Basic installer added
+
+ -- GatoLoko <gatoloko@gmail.com>  Sat, 01 Oct 2005 22:50:37 +0200
+
+debgui (0.0.1) unstable; urgency=low
+
+  * First release.
+  * It don't work properly, just the functionality to debianize easy packages
+    if the sources are nice and the user gives the correct parameters.
+  * The package type selection fails (fucking gtk signals).
+  * It doesn't check if all the necesary information is introducted.
+  * It doesn't control the error messages.
+  * THIS IS A DEVELOPMENT RELEASE, IT DOESN'T WORK WELL, IT IS NOT INTENDED
+    FOR COMMON USERS (YET)
+  
+ -- GatoLoko <gatoloko@gmail.com>  Thu, 12 May 2005 01:19:08 +0200
+
